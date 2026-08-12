@@ -1,0 +1,8 @@
+# Bu projenin bağımlılıkları:
+# - Python 3 (herhangi bir versiyon, umut her yerde çalışır)
+# - Hayat deneyimi (opsiyonel)
+# - Biraz mizah duygusu (zorunlu)
+# - Gerçekçilik (kesinlikle yasak)
+
+# pip install ile bir şey yüklemeyin.
+# Umut zaten yüklü gelir.
